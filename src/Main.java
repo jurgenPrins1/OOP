@@ -6,6 +6,7 @@ public class Main {
         dog.makeSound();
         cat.makeSound();
         moo.makeSound();
+        //ze kunnen geluid maken
     }
 
 }
